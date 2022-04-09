@@ -55,7 +55,7 @@ https://youtu.be/7dKpdEeShOc
    ```
 ---
 
-**Contact**
+### Contact
 
 `gmail: nivas8c27@gmail.com`
 
@@ -69,4 +69,4 @@ https://youtu.be/7dKpdEeShOc
 [2]: https://www.facebook.com/nivas.teja.5243
 
 ---
-***Online-Voting-System***
+<h1><i><b>Online-Voting-System</b></i></h1>
