@@ -12,7 +12,7 @@
 #### Getting the requirements
 1. Download and install **NodeJS**
 
-   Download and install NodeJS from [here].
+   Download and install **NodeJS** from [here].
 
 1. Install **truffle** and **ganache-cli** using node packager manager (npm)
 
