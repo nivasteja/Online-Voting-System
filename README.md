@@ -1,6 +1,7 @@
 # Online Voting System Using BlockChain Technology
 
 > This is a final year project for the IT Degree at MVSR Engineering College, Nagdergul.
+
 > This project is developed by K. Nivas Teja, E. Rishwanth Reddy, C. Sumanth under the guidance of D.B.V Ravi Sankar.
 
 ### Requirements
