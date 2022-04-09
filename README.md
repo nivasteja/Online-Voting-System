@@ -55,15 +55,11 @@ https://youtu.be/7dKpdEeShOc
    ```
 ---
 
-
-
-
 **Contact**
 
 `gmail: nivas8c27@gmail.com`
 
 [![alt text][1.1]][1]
-
 [![alt text][2.1]][2]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -71,4 +67,6 @@ https://youtu.be/7dKpdEeShOc
 
 [1]: https://twitter.com/NivasTeja00098
 [2]: https://www.facebook.com/nivas.teja.5243
+
+---
 ***Online-Voting-System***
