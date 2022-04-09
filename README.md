@@ -52,5 +52,29 @@
 ---
 
 Made with ❤️ by NivasTeja, Rishwanth,Sumanth
+---
+Contact 
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+[1]: http://www.twitter.com/carlsednaoui
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+
+[1]: https://twitter.com/NivasTeja00098
+[2]: https://www.facebook.com/nivas.teja.5243
+[3]: nivas8c27@gmail.com
+
+
+
+
 
 "# Online-Voting-System" 
