@@ -6,7 +6,7 @@
 
 ### Demo
 
-https://youtu.be/7dKpdEeShOc
+[Online Voting System demo video](https://youtu.be/7dKpdEeShOc)
 
 ### Requirements
 
