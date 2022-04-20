@@ -57,7 +57,7 @@
 
 ### Contact
 
-`gmail: nivas8c27@gmail.com`
+`gmail: nivasteja5243@yahoo.com`
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
